@@ -1,0 +1,11 @@
+element.style{
+    padding-bottom: 24px;
+    height: 436.104px;
+    width: 1903px;
+}
+.imgbackground{
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    z-index: 0;
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../listing"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../gicungduoc/atn"
+		},
+		{
+			"path": "../test"
+		}
+	]
+}
